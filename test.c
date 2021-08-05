@@ -1,6 +1,6 @@
-#include<stdio.h>
-int main()
-{
-    printf("Hello World!");
+#include <stdio.h>
+#pragma warning(disable:4996)
+
+int main() {
     return 0;
 }
